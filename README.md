@@ -18,11 +18,11 @@ I love developing intelligent applications that solve real-world problems using 
 
 ## 🚀 Featured Projects
 ### 🎬 Movie Recommendation System  
-Suggests movies based on user preferences using TF-IDF and Cosine Similarity.  
+Suggests movies based on user preferences .  
 🔗 [View Project](https://github.com/gayathrigovindnk/movieapp)
 
 ### 🏫 School Store Web App  
-A Django-based application for managing school queries and student forms.  
+A Django-based application for managing school queries.  
 🔗 [View Project](https://github.com/gayathrigovindnk/schoolstore)
 
 ### 🪑 Hi-Tech Furniture E-Commerce  
